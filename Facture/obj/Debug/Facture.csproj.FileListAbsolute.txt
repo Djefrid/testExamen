@@ -1,0 +1,8 @@
+M:\labo prog Csharp\prog2\testExamen\Facture\bin\Debug\Facture.exe.config
+M:\labo prog Csharp\prog2\testExamen\Facture\bin\Debug\Facture.exe
+M:\labo prog Csharp\prog2\testExamen\Facture\bin\Debug\Facture.pdb
+M:\labo prog Csharp\prog2\testExamen\Facture\obj\Debug\Facture.csproj.AssemblyReference.cache
+M:\labo prog Csharp\prog2\testExamen\Facture\obj\Debug\Facture.csproj.SuggestedBindingRedirects.cache
+M:\labo prog Csharp\prog2\testExamen\Facture\obj\Debug\Facture.csproj.CoreCompileInputs.cache
+M:\labo prog Csharp\prog2\testExamen\Facture\obj\Debug\Facture.exe
+M:\labo prog Csharp\prog2\testExamen\Facture\obj\Debug\Facture.pdb
